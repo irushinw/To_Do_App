@@ -1,3 +1,7 @@
+A clean  To-Do List application built with HTML, CSS, and JavaScript.
+Easily add, complete, and delete tasks  with data saved in your browser.
+
+
 ## 🚀 Live Demo
 🔗 (https://irushinw.github.io/To_Do_App/)
 
@@ -7,8 +11,7 @@
 - ➕ Add new tasks  
 - ✔️ Mark tasks as completed or active  
 - 🗑️ Delete tasks  
-- 💾 Persistent storage with localStorage  
-- 📱 Responsive design (mobile & desktop)  
+- 💾 Persistent storage with localStorage    
 - 🖼️ Custom favicon + optional custom domain  
 
 ---
